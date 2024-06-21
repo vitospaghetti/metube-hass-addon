@@ -1,4 +1,4 @@
-# Benoit Anastay Addon : Authelia
+# Vito Spaghetti Addon : Metube
 
 [![GitHub Release][releases-shield]][releases]
 ![Project Stage][project-stage-shield]
@@ -14,10 +14,9 @@
 ![Project Maintenance][maintenance-shield]
 [![GitHub Activity][commits-shield]][commits]
 
-**Authelia** is an open-source authentication and authorization server providing two-factor authentication and single
-sign-on (SSO) for your applications via a web portal.
+**Metube** is an web front end to [https://github.com/yt-dlp/](https://github.com/yt-dlp/yt-dlp/).
 
-Documentation is available at [https://www.authelia.com/](https://www.authelia.com/).
+Documentation is available at [https://github.com/alexta69/metube/](https://github.com/alexta69/metube/).
 
 ## Installation
 
@@ -30,8 +29,8 @@ comparison to installing any other Home Assistant add-on.
    [![Open this add-on in your Home Assistant instance.][addon-badge]][addon]
 
 1. Click the "Install" button to install the add-on.
-1. Start the "Authelia" add-on.
-1. Check the logs of the "Authelia" add-on to see it in action.
+1. Start the "Metube" add-on.
+1. Check the logs of the "Metube" add-on to see it in action.
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
